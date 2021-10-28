@@ -31,7 +31,7 @@ Sau khi triển khai, mỗi khi khởi động sẽ tải bản V2Ray mới nh�
  2. Sửa lại tên dự án thành tên bất kỳ không nên chứa hai từ khóa `v2ray` và `heroku`（Ví dụ đổi thành `demo`）
  3. Sửa lại file `README.md`，đường dẫn `kim7tin/v2heroku` bằng đường dẫn của bạn（ví dụ `example/demo`）
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/kim7tin/v2heroku)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/hieunv95/free4g)
 
  4. Quay lại trang chủ của dự án，bấm vào liên kết để triển khai V2Ray
 
