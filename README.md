@@ -31,7 +31,7 @@ Después de implementarlo, cada vez que se inicie se cargará la versión más r
  2. Cambia el nombre del proyecto a cualquier nombre que no contenga las palabras clave "v2ray" y "heroku" (por ejemplo, cámbialo a "demo").
  3. Edita el archivo `README.md`, reemplaza la ruta `kim7tin/v2heroku` con tu propia ruta (por ejemplo, "ejemplo/demo").
 
-> [![Deployar](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/hieunv95/free4g)
+> [![Deployar](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/HOCKNAS/nodejs-example-fork)
 
  4. Vuelve a la página principal del proyecto, haz clic en el enlace para implementar V2Ray.
 
